@@ -30,3 +30,5 @@ $ sails lift
 ### screenshot
 
 ![nn](https://user-images.githubusercontent.com/12325386/29485715-24e99648-8509-11e7-9b6d-0a945206d2b8.JPG)
+
+![nn](https://user-images.githubusercontent.com/12325386/29485724-46f4bad8-8509-11e7-9b29-e2e71872c7fc.JPG)
