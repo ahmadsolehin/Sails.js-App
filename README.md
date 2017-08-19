@@ -26,3 +26,5 @@ To serve in the browser
 ```sh
 $ sails lift
 ```
+
+### screenshot
