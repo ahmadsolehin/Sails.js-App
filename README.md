@@ -5,9 +5,6 @@ a [Sails](http://sailsjs.org) CRUD application to manage articles
 ### Version
 1.0.0
 
-## Usage
-
-
 ### Installation
 
 Install the dependencies
